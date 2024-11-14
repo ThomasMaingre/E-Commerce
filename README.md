@@ -7,7 +7,6 @@
 - [Pré-requis](#pré-requis)
 - [Guide d'installation](#guide-dinstallation)
 - [Mode d'emploi](#mode-demploi)
-- [À propos de l'auteur](#à-propos-de-lauteur)
 
 ## Aperçu
 
@@ -35,7 +34,7 @@ Le projet **E-commerce** est une application web de vente en ligne, axée sur la
 1. Récupérez le code source en clonant le dépôt GitHub :
 
     ```bash
-    git clone git@github.com:basim-el/e-commerce.git
+    git clone git@github.com:ThomasMaingre/E-Commerce.git
     ```
 
 2. Accédez au dossier backend de l'API :
@@ -116,10 +115,3 @@ Le projet **E-commerce** est une application web de vente en ligne, axée sur la
     ```
 
 3. Ouvrez votre navigateur et rendez-vous à l'adresse `http://localhost:3000` pour accéder à l'interface utilisateur.
-
-## À propos de l'auteur
-
-👤 **Basim El Sayed**
-
-- [Portfolio](https://www.eldev.fr/)
-- [LinkedIn](https://www.linkedin.com/in/basim-el-sayed/)
